@@ -14,7 +14,7 @@ inquirer
     type:"list",
     message:"Enter text Color",
     name:"textColor",
-    choices:["blue","orange","pink"]
+    choices:["blue","orange","yellow"]
 
 },{
     type:"list",
@@ -25,7 +25,7 @@ inquirer
     type:"list",
     message:"Enter Shape color",
     name:"shapeColor",
-    choices:["blue","orange","pink"]
+    choices:["blue","red","pink"]
 }
 
 ])
