@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "example": "example",
+    "example": "examples",
     "lib": "lib"
   },
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https:github.com/jusukarneh/SVG-Logo-Maker.git#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.6.4"
+    "jest": "^29.6.4",
+    "uuid": "^9.0.0"
   }
 }
